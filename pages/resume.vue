@@ -2,8 +2,7 @@
 @import 'assets\fancy.css';
 </style>
 <template>
-	<PrimePanel header="About Me" class="my-6">
-		About me stuffs
+	<PrimePanel header="Resume" class="my-6">
 		<PrimeButton label="Check" icon="pi pi-check" />
 	</PrimePanel>
 </template>
