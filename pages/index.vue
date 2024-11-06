@@ -1,5 +1,5 @@
 <style scoped>
-@import 'assets\fancy.css';
+@import 'pages\assets\fancy.css';
 </style>
 <template>
 	<title>Home</title>
