@@ -1,5 +1,5 @@
 <style>
-@import 'assets\fancy.css';
+@import './assets/fancy.css';
 </style>
 <template>
 	<title>Home</title>
@@ -20,6 +20,3 @@
 		</body>
 	</PrimePanel>
 </template>
-
-
-	
