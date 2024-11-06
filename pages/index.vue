@@ -1,4 +1,4 @@
-<style scoped>
+<style>
 @import 'assets\fancy.css';
 </style>
 <template>
