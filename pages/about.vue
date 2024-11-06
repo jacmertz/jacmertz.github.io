@@ -1,6 +1,3 @@
-<style scoped>
-@import 'assets\fancy.css';
-</style>
 <template>
 	<PrimePanel header="About Me" class="my-6">
 		About me stuffs
