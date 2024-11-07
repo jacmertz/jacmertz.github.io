@@ -16,6 +16,7 @@ export default {
 <template>
     <head>
         <title>Home</title>
+        <link rel="stylesheet" type="text/css" href="../assets/fancy.css">
     </head>
     <body>
         <PrimePanel header="Home" class="my-6">
