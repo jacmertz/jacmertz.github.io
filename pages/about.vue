@@ -1,6 +1,3 @@
-<script>
-import '../assets/fancy.css';
-</script>
 <template>
 	<title>About</title>
 	<body>
