@@ -1,4 +1,5 @@
 <script>
+import '../assets/fancy.css';
 import initTicTacToe from '../assets/script.js';
 import { onMounted } from 'vue';
 
