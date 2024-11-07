@@ -1,3 +1,6 @@
+<script>
+import '../assets/fancy.css';
+</script>
 <template>
 	<title>Resume</title>
 	<body>

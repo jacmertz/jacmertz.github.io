@@ -32,7 +32,7 @@ export default {
             <p>
                 Lorem ipsum odor amet, consectetuer adipiscing elit. Accumsan gravida mollis fringilla nascetur quam. Tempor semper risus sagittis maximus libero. Ullamcorper odio pulvinar finibus mus nam in convallis nisl. Ligula sit varius elit eros cursus vulputate. Praesent vulputate massa orci ad, <b>fermentum habitant habitasse.</b> <i>Lacus dictum fermentum penatibus;</i> aenean facilisi torquent. Tellus turpis amet euismod tortor augue lacus. Dignissim malesuada rutrum vel sed montes senectus.
             </p>
-            <a href="./about.vue">About Me</a> | <a href="./resume.vue">Resume</a>
+            <a href="/about">About Me</a> | <a href="/resume">Resume</a>
         <br/>
         </PrimePanel>
         <h1>Play TicTacToe</h1>
