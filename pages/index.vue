@@ -39,7 +39,6 @@ export default {
     <body>
         <h1>Play TicTacToe</h1>
         <div id="turn">x's Turn</div>
-        <!--table for the game-->
         <table>
             <tbody>
                 <tr>
