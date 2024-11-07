@@ -1,7 +1,7 @@
 <template>
 	<title>About</title>
+	<body>
 	<PrimePanel header="About Me" class="my-6">
-		<body>
 			<div>
 				<h2 id="underline">My Favorite Movies</h2>
 				<ol>
@@ -22,6 +22,6 @@
 				<br/>
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/V75dMMIW2B4" frameborder="0" allowfullscreen></iframe>
 			</div>
-		</body>
-	</PrimePanel>
+		</PrimePanel>
+	</body>
 </template>

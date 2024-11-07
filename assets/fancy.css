@@ -1,5 +1,10 @@
+body {
+  background-color: lightblue
+}
+
 p {
   text-indent: 2em;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
 }
 
 .p-panel-header {
@@ -46,6 +51,10 @@ h1 {
   text-decoration: underline; 
 }
 
+.p-panel a:visited {
+  color:purple;
+}
+
 #underline {
   text-decoration: underline;
 }
@@ -56,21 +65,41 @@ h1 {
 
 /* TicTacToe Below */
 
-table {
-  border-collapse: collapse;
-  margin-top: 20px;
+td {
+  border: 5px solid black;
+  width: 120px;
+  height: 120px;
+  font-size: 80px;
+  text-align: center;
+  font-family: sans;
 }
 
-td {
-  width: 100px;
-  height: 100px;
-  text-align: center;
-  border: 1px solid black;
-  font-size: 2em;
-  cursor: pointer;
+td:nth-child(1){
+  border-left: none;
+}
+
+td:nth-child(3){
+  border-right: none;
+}
+
+tr:nth-child(1) > td{
+  border-top: none;
+}
+
+tr:nth-child(3) > td{
+  border-bottom: none;
 }
 
 #turn {
-  margin-bottom: 10px;
-  font-size: 1.5em;
+  font-weight: bold;
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 16pt;
+  color: white;
+  background-color: #512888;
+  width: 360px
+}
+
+table {
+  background-color: white;
 }
