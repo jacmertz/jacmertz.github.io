@@ -38,6 +38,8 @@ export default {
         </PrimePanel>
         <h1>Play TicTacToe</h1>
         <div id="turn">x's Turn</div>
+    </body>
+    <body>
         <table>
             <tbody>
                 <tr>
