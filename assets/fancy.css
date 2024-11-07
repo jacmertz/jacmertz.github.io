@@ -1,0 +1,11 @@
+p {
+  text-indent: 2em;
+}
+
+.p-panel-header {
+  font-size: 1.5em;
+  background-color: #f4f4f4;
+  color: #000000;
+  padding: 10px;
+  border-bottom: 2px solid #000000;
+}
