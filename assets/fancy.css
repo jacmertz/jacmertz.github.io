@@ -3,9 +3,48 @@ p {
 }
 
 .p-panel-header {
-  font-size: 1.5em;
+  font-size: 2em;
   background-color: #f4f4f4;
   color: #000000;
   padding: 10px;
   border-bottom: 2px solid #000000;
+}
+
+.p-panel h1 {
+  font-size: 1.5em;
+  text-decoration: underline;
+}
+
+.p-panel h2 {
+  font-size: 1.25em;
+  padding-top: 1em;
+  text-decoration: underline;
+}
+
+.p-panel ol {
+  list-style-type: decimal;
+  padding-left: 20px;
+}
+
+.p-panel ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.p-panel a {
+  color: blue;  
+  text-decoration: underline;
+}
+
+.p-panel a:hover {
+  color: darkblue;  
+  text-decoration: underline; 
+}
+
+#underline {
+  text-decoration: underline;
+}
+
+#bold {
+  font-weight: bold;
 }
